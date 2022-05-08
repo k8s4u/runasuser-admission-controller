@@ -1,4 +1,4 @@
-module admission-controller-runasuser
+module github.com/ElisaOyj/runasuser-admission-controller
 
 go 1.17
 
